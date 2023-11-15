@@ -2,3 +2,4 @@ pandas==1.5.3
 opencv-python==4.8.1.78
 streamlit==1.25.0
 numpy==1.25.2
+opencv-contrib-python==4.8.1.78
